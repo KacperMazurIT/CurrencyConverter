@@ -1,0 +1,8 @@
+C:\Users\Kacperek\Desktop\Git\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\Kacperek\Desktop\Git\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.MainForm.resources
+C:\Users\Kacperek\Desktop\Git\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+C:\Users\Kacperek\Desktop\Git\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Kacperek\Desktop\Git\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Kacperek\Desktop\Git\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Kacperek\Desktop\Git\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Kacperek\Desktop\Git\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

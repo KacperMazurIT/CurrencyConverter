@@ -1,0 +1,15 @@
+EUR
+Unia Europejska
+4,3007
+GBP
+Wielkie Brytania
+4,8744
+USD
+USA
+3,8554
+CAD
+Kanada
+2,8543
+CHF
+Szwajcaria
+3,8329
